@@ -1,6 +1,6 @@
 <?php
 session_start();
 session_unset();
-header('location:http://localhost:8081/ProSession/');
+header('location:http://localhost:8081/Ejercicio1/');
 
 ?>

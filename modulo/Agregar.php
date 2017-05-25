@@ -25,4 +25,4 @@ $sqlip="select host from information_schema.processlist WHERE ID=connection_id()
         $miconn->close();
         }     
         
-        ?>
+      
